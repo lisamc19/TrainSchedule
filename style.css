@@ -1,0 +1,58 @@
+form {
+	width: 75%;
+}
+h2 {
+	background-color: SteelBlue;
+	color: white;
+}
+.jumbotron.jumbotron-fluid {
+	background-color: SaddleBrown;
+	color: white;
+	text-align: center;
+}
+#tableHeader {
+	color: white;
+}
+.form-control {
+	margin-left: 20px;
+}
+label {
+	margin-left: 20px;
+}
+.btn-primary {
+	margin-left: 20px;
+}
+#trainName {
+	width: 129%;
+}
+#destination {
+	width: 129%;
+}
+#firstTrain {
+	width: 129%;
+}#frequency {
+	width: 129%;
+}
+th {
+	color: black;
+}
+div.panel-title {
+	background-color: SteelBlue;
+	color: white;
+}
+.panel.panel-default {
+ 	border-style: solid;
+ 	width: 75%;
+ 	margin-left: 5%;
+ 	border-color: steelBlue;
+}
+div.panel2-title{
+	background-color: SteelBlue;
+	color: white;
+}
+.panel2.panel-default {
+	border-style: solid;
+ 	width: 75%;
+ 	margin-left: 5%;
+ 	border-color: steelBlue;
+}
